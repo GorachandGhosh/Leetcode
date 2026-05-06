@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/GorachandGhosh/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/GorachandGhosh/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/GorachandGhosh/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/GorachandGhosh/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GorachandGhosh/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
