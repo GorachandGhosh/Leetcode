@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GorachandGhosh/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/GorachandGhosh/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0035-search-insert-position](https://github.com/GorachandGhosh/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/GorachandGhosh/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/GorachandGhosh/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Hash Table
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/GorachandGhosh/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GorachandGhosh/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
