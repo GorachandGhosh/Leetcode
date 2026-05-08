@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/GorachandGhosh/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/GorachandGhosh/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/GorachandGhosh/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0735-asteroid-collision](https://github.com/GorachandGhosh/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GorachandGhosh/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0735-asteroid-collision](https://github.com/GorachandGhosh/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GorachandGhosh/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/GorachandGhosh/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
