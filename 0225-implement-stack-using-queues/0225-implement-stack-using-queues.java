@@ -7,6 +7,7 @@ class MyStack {
     }
     
     public void push(int x) {
+        /*
         // moving from main to helper
         while(main.size()>0){
             helper.add(main.remove());
@@ -16,6 +17,10 @@ class MyStack {
         // moving all elements from helper to main
         while(helper.size()>0){
             main.add(helper.remove());
+        } */
+        main.add(x);
+        for(int i=0; i<main.size()-1; ++i){
+            main.add(main.remove());
         }
     }
     
