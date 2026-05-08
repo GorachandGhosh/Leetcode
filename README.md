@@ -83,4 +83,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/GorachandGhosh/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/GorachandGhosh/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/GorachandGhosh/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/GorachandGhosh/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
