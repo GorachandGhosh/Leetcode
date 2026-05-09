@@ -74,10 +74,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/GorachandGhosh/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GorachandGhosh/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/GorachandGhosh/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0455-assign-cookies](https://github.com/GorachandGhosh/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/GorachandGhosh/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/GorachandGhosh/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GorachandGhosh/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/GorachandGhosh/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0735-asteroid-collision](https://github.com/GorachandGhosh/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -114,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/GorachandGhosh/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/GorachandGhosh/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
