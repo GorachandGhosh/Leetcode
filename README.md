@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/GorachandGhosh/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/GorachandGhosh/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GorachandGhosh/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GorachandGhosh/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/GorachandGhosh/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/GorachandGhosh/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GorachandGhosh/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
