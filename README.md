@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/GorachandGhosh/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0735-asteroid-collision](https://github.com/GorachandGhosh/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GorachandGhosh/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/GorachandGhosh/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/GorachandGhosh/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GorachandGhosh/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/GorachandGhosh/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/GorachandGhosh/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GorachandGhosh/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GorachandGhosh/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/GorachandGhosh/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0455-assign-cookies](https://github.com/GorachandGhosh/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GorachandGhosh/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
