@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/GorachandGhosh/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/GorachandGhosh/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GorachandGhosh/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/GorachandGhosh/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,12 +32,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/GorachandGhosh/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/GorachandGhosh/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GorachandGhosh/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/GorachandGhosh/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/GorachandGhosh/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/GorachandGhosh/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GorachandGhosh/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/GorachandGhosh/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
