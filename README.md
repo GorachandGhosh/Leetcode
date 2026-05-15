@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GorachandGhosh/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GorachandGhosh/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/GorachandGhosh/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/GorachandGhosh/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0455-assign-cookies](https://github.com/GorachandGhosh/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0735-asteroid-collision](https://github.com/GorachandGhosh/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/GorachandGhosh/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GorachandGhosh/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
