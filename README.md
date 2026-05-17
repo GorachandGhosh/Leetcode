@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/GorachandGhosh/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/GorachandGhosh/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/GorachandGhosh/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GorachandGhosh/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/GorachandGhosh/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0455-assign-cookies](https://github.com/GorachandGhosh/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GorachandGhosh/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -179,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
