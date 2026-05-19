@@ -13,7 +13,6 @@
  *     }
  * }
  */
-
 class Solution {
     public int deepestLeavesSum(TreeNode root) {
         if (root == null) return 0;
@@ -23,7 +22,7 @@ class Solution {
         int levelSum = 0;
 
         while (!queue.isEmpty()) {
-            levelSum = 0; // Reset for each new level
+            levelSum = 0; // Reset for each level
             int size = queue.size();
             
             for (int i = 0; i < size; i++) {
@@ -34,8 +33,8 @@ class Solution {
                 if (current.right != null) queue.offer(current.right);
             }
         }
-
-        // After the loop, levelSum holds the sum of the final level
+        
+        // After the loop finishes, levelSum holds the sum of the last level
         return levelSum;
     }
 }
