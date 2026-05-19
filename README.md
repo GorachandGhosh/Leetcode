@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/GorachandGhosh/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/GorachandGhosh/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/GorachandGhosh/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/GorachandGhosh/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1306-jump-game-iii](https://github.com/GorachandGhosh/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GorachandGhosh/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2540-minimum-common-value](https://github.com/GorachandGhosh/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Tree
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/GorachandGhosh/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/GorachandGhosh/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/GorachandGhosh/Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Dynamic Programming
