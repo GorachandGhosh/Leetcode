@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/GorachandGhosh/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2540-minimum-common-value](https://github.com/GorachandGhosh/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/GorachandGhosh/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GorachandGhosh/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GorachandGhosh/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/GorachandGhosh/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/GorachandGhosh/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GorachandGhosh/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/GorachandGhosh/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GorachandGhosh/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/GorachandGhosh/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GorachandGhosh/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GorachandGhosh/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
