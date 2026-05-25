@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/GorachandGhosh/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/GorachandGhosh/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [1340-jump-game-v](https://github.com/GorachandGhosh/Leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/GorachandGhosh/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GorachandGhosh/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/GorachandGhosh/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/GorachandGhosh/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1871-jump-game-vii](https://github.com/GorachandGhosh/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GorachandGhosh/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/GorachandGhosh/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/GorachandGhosh/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GorachandGhosh/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/GorachandGhosh/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
